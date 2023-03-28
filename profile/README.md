@@ -1,4 +1,8 @@
-# 👋 Welcome To MOOCODE
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679118041530/kx8o3aZZi.png?w=750&h=187.5&fit=crop&crop=entropy" alt="MOOCODE Cover"/>
+
+
+# Welcome To MOOCODE ✨
+
 The __Next-Gen__ Digital Agency
 > [Check out **The MOOCODE Blog**](https://blog.moocode.lol)
 
