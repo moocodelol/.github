@@ -15,6 +15,7 @@ The __Next-Gen__ Digital Agency
 
 ## ✉️ Contact
 - 📧 Email at contact@moocode.lol
+- 📞 Call at +1 (662) 666-6675
 
 
 > NOTE: This digital agency is a project of [DAFZE](https://dawoodahmed.com).
